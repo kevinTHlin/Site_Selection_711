@@ -21,6 +21,7 @@ fonttools
 gitdb
 GitPython
 idna
+imageio
 ipykernel
 ipython
 ipython-genutils
@@ -34,6 +35,7 @@ jupyter-core
 jupyterlab-pygments
 jupyterlab-widgets
 kiwisolver
+lime
 MarkupSafe
 matplotlib
 matplotlib-inline
@@ -42,6 +44,7 @@ nbclient
 nbconvert
 nbformat
 nest-asyncio
+networkx
 notebook
 numpy
 packaging
@@ -50,7 +53,6 @@ pandocfilters
 parso
 pickleshare
 Pillow
-pip-chill
 prometheus-client
 prompt-toolkit
 protobuf
@@ -64,10 +66,12 @@ pyrsistent
 python-dateutil
 pytz
 pytz-deprecation-shim
+PyWavelets
 pywin32;platform_system == "Windows"
 pywinpty
 pyzmq
 requests
+scikit-image
 scikit-learn
 scipy
 Send2Trash
@@ -79,10 +83,12 @@ streamlit
 terminado
 testpath
 threadpoolctl
+tifffile
 toml
 tomli
 toolz
 tornado
+tqdm
 traitlets
 typing_extensions
 tzdata
